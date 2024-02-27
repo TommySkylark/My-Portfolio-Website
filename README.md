@@ -2,7 +2,8 @@
 
 This is a data analyst/developer portfolio website built using **Django 4**, **HTML 5**, **CSS 3**, **Bootstrap 5**, and **Sass**.
 
-![Portfolio Website Screenshot](path/to/media/portfolio_website.png)
+![plot](https://github.com/TommySkylark/Portfolio-Website/blob/master/static/images/portfolio_website?raw=true)
+
 
 
 ## Table of Contents 
@@ -152,4 +153,4 @@ static/css/styles.css
 To modify the logo in the application, make changes in the ```templates/index.html``` file.
 
 
-# Portfolio-Website
+# Portfolio-Website# Portfolio-Website
