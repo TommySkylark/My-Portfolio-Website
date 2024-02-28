@@ -2,7 +2,8 @@
 
 This is a data analyst/developer portfolio website built using **Django 4**, **HTML 5**, **CSS 3**, **Bootstrap 5**, and **Sass**.
 
-![plot](https://github.com/TommySkylark/Portfolio-Website/blob/master/static/images/portfolio_website?raw=true)
+![Alt text](static/images/portfolio_website.png?raw=true "Portfolio Website")
+
 
 
 
