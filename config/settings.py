@@ -13,11 +13,8 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-2*xpnlikl8cpgp(%74ua_^q5j$7xx4!*^6=bjk7#n&@r(h5q62'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-<<<<<<< HEAD
 DEBUG = True
-=======
-DEBUG = False
->>>>>>> c2d043c ('updates')
+
 
 ALLOWED_HOSTS = []
 
@@ -38,10 +35,7 @@ INSTALLED_APPS = [
 
 MIDDLEWARE = [
   'django.middleware.security.SecurityMiddleware',
-<<<<<<< HEAD
-=======
   'whitenoise.middleware.WhiteNoiseMiddleware',
->>>>>>> c2d043c ('updates')
   'django.contrib.sessions.middleware.SessionMiddleware',
   'django.middleware.common.CommonMiddleware',
   'django.middleware.csrf.CsrfViewMiddleware',
@@ -117,11 +111,8 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/4.1/howto/static-files/
 
 STATIC_URL = '/static/'
-<<<<<<< HEAD
-=======
 STATIC_ROOT = BASE_DIR/'assets'
 STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
->>>>>>> c2d043c ('updates')
 
 # Location where Django collects all static files
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
